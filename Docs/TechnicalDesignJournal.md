@@ -298,6 +298,16 @@ Gameplay systems begin slightly later.
 
 However, testing occurs under realistic gameplay conditions from the earliest stages of development.
 
+## Decision 009 — Unreal Engine 5.6
+
+### Decision
+
+Atlas Unwritten will use Unreal Engine 5.6.
+
+### Reason
+
+Unreal Engine 5.6 is currently more stable on the development machine than newer versions. Unreal Engine 5.7 caused GPU crashes during startup, making it unsuitable for regular development.
+
 ---
 
 # Development Principles

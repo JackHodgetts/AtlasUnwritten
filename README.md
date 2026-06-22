@@ -44,7 +44,7 @@ Development follows a milestone-based approach, with each milestone focusing on 
 
 ## Technologies
 
-- Unreal Engine 5.7.4
+- Unreal Engine 5.6
 - C++
 - Git and GitHub
 - Visual Studio
